@@ -1,4 +1,4 @@
-<h1>lisa trueblood, senior product & marketing leader</h1>
+<h1>lisa trueblood, product & marketing leader</h1>
 
 Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
 
@@ -8,7 +8,7 @@ Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
     <li>👩‍💻 senior product manager @ slickdeals</li>
     <li>🤖 10+ years managing products and people</li>
     <li>👩‍💼 led consumer marketing @ boingo</li>
-    <li>🤓 ucla anderson mba grad specializing in technology, entrepreneurship, and global management</li>
+    <li>🤓 mba from ucla anderson</li>
     <li>👨‍🔬 deep expertise in consumer products</li>
   </ul>
 
