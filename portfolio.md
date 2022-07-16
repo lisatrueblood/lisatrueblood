@@ -97,6 +97,6 @@ I led a cross-functional team to implement Salesforce Marketing Cloud, enabling 
 
 <ul></ul>
 
-<img src="images/email.png" alt="Support Site Redesign Screenshot" style="width:75%;height:75%;">
+<img src="images/email.png" alt="Support Site Redesign Screenshot" style="width:50%;height:50%;">
 
 <br>
