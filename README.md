@@ -32,6 +32,8 @@
   
 <h2>bio</h2>
 
+<img src="images/aboutme.jpeg" alt="Picture of Lisa" style="width:50%;height:50%;">
+
 I am comfortable at the intersection of finance, technology, and creativity. I leverage my unique blend of experiences to orchestrate large-scale product launches and go-to-market efforts, while never losing sight of the business objective: driving revenue.
 
 I have spent more than a decade working in the Los Angeles tech industry. As a marketing director and product owner in the consumer products, education technology, and telecommunications industry, my skill set can be applied to any industry.
