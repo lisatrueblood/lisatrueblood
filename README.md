@@ -36,13 +36,13 @@ Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
 
 <img src="images/aboutme.jpeg" alt="Picture of Lisa" style="width:50%;height:50%;">
 
-I am comfortable at the intersection of finance, technology, and creativity. I leverage my unique blend of experiences to orchestrate large-scale product launches and go-to-market efforts, while never losing sight of the business objective: driving revenue.
+I am comfortable at the intersection of technology, design, and business. I leverage my unique blend of experiences to orchestrate large-scale product launches and go-to-market efforts, while never losing sight of the business objective: delighting users and driving revenue.
 
-I have spent more than a decade working in the Los Angeles tech industry. As a marketing director and product owner in the consumer products, education technology, and telecommunications industry, my skill set can be applied to any industry.
+I have spent more than a decade working in the Los Angeles tech industry. As a marketing director and product manager in consumer products, e-commerce, ed tech, and telecom, my skill set can be applied to any industry.
 
 My methods are backed in design thinking. Empathizing with the customer comes naturally to me. I develop personas, map user journeys, prototype, and test my assumptions. I analyze data and talk to customers to understand their pain points and turn this information into actionable insights.
 
-Having worked cross-functionally with Engineering, UX, Creative, and Product on many projects, I am skilled at turning business objectives into technical requirements, and excel at facilitating communication between technical and non-technical teams. I am currently pursuing my MBA from UCLA Anderson and have a degree in International Business.  
+Having worked cross-functionally with Engineering, UX, Creative, and Product on many projects, I am skilled at turning business objectives into technical requirements, and excel at facilitating communication between technical and non-technical teams. I recently graduated with my MBA from UCLA Anderson and have a degree in International Business.
 
 
 <!---
