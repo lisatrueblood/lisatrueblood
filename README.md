@@ -1,6 +1,6 @@
 <h1>lisa trueblood, senior product & marketing leader</h1>
 
-Check out my <a href="portfolio.md" target="_blank">portfolio</a></li>.
+Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
 
 <h2>tl;dr</h2>
   <ul>
