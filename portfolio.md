@@ -79,6 +79,16 @@ The project was to redesign the Boingo support website, where customers can view
 
 <ul></ul>
 
-<img src="images/TechKnow.png" alt="Support Site Redesign Screenshot" style="width:50%;height:50%;">
+<img src="images/TechKnow.png" alt="Support Site Redesign Screenshot" style="width:25%;height:25%;">
+
+<br>
+
+<h2>HOW-TO VIDEOS</h2>
+
+<iframe width="420" height="315"
+src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/WyZkbOAKWJU)">
+</iframe>
+
+YouTube Video Image (https://img.youtube.com/vi/WyZkbOAKWJU/0.jpg)](https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/WyZkbOAKWJU)
 
 <br>
