@@ -83,12 +83,20 @@ The project was to redesign the Boingo support website, where customers can view
 
 <br>
 
-<h2>HOW-TO VIDEOS</h2>
+<h2>SALESFORCE MARKETING CLOUD</h2>
+I led a cross-functional team to implement Salesforce Marketing Cloud, enabling the marketing team to develop email and SMS content without engineering support, and reducing the time to campaign launch by 3 weeks.
 
-<iframe width="420" height="315"
-src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/WyZkbOAKWJU)">
-</iframe>
+<h4>My Role</h4> 
+<ul>
+  <li>Managed technical and creative teams as well as outside partners</li>
+  <li>Designed and wrote all emails with a mobile-first approach</li>
+  <li>Enabled a real-time sync of our customers into Salesforce</li>
+  <li>Created dynamic content and personalization rules</li>
+  <li>Designed IP warming process</li>
+</ul>
 
-YouTube Video Image (https://img.youtube.com/vi/WyZkbOAKWJU/0.jpg)](https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/WyZkbOAKWJU)
+<ul></ul>
+
+<img src="images/email.png" alt="Support Site Redesign Screenshot" style="width:75%;height:75%;">
 
 <br>
