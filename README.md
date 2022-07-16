@@ -29,7 +29,7 @@ Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
     <li>2020 promoted to director of marketing @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
     <li>2015 senior marketing manager & product owner @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
     <li>2013 brand marketing manager @ <a href="https://2u.com/" target="_blank">2u</a></li>
-    <li>2010 marketing coordinator @ <a href="https://intex.com/" target="_blank">intex</a></li>
+    <li>2010 marketing coordinator @ <a href="https://intexcorp.com/" target="_blank">intex</a></li>
   </ul>
   
 <h2>bio</h2>
