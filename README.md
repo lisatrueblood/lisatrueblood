@@ -6,8 +6,8 @@ Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
   <ul>
     <li>👋 Hi, I’m @lisatrueblood</li>
     <li>👩‍💻 senior product manager @ slickdeals</li>
-    <li>🤖 10+ years managing products and people</li>
-    <li>👩‍💼 led consumer marketing @ boingo</li>
+    <li>🤖 12+ years managing products and people</li>
+    <li>👩‍💼 led consumer product marketing @ boingo</li>
     <li>🤓 mba from ucla anderson</li>
     <li>👨‍🔬 deep expertise in consumer products</li>
   </ul>
@@ -26,8 +26,8 @@ Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
   <ul>
     <li>2021 senior product manager @ <a href="https://slickdeals.net/" target="_blank">slickdeals</a></li>
     <li>2021 transition to director of product management @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
-    <li>2020 promoted to director of marketing @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
-    <li>2015 senior marketing manager & product owner @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
+    <li>2020 promoted to director of product marketing @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
+    <li>2015 senior product manager for the marketing team @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
     <li>2013 brand marketing manager @ <a href="https://2u.com/" target="_blank">2u</a></li>
     <li>2010 marketing coordinator @ <a href="https://intexcorp.com/" target="_blank">intex</a></li>
   </ul>
