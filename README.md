@@ -1,4 +1,4 @@
-<h1>lisa trueblood, product & marketing leader</h1>
+<h1>lisa trueblood, product lead</h1>
 
 Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
 
@@ -25,8 +25,7 @@ Check out my <a href="portfolio.md" target="_blank">portfolio</a></li> 🦩
 <h2>curriculum vitae</h2>
   <ul>
     <li>2021 senior product manager @ <a href="https://slickdeals.net/" target="_blank">slickdeals</a></li>
-    <li>2021 transition to director of product management @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
-    <li>2020 promoted to director of product marketing @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
+    <li>2020 promoted to director of product & marketing @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
     <li>2015 senior product manager for the marketing team @ <a href="https://boingo.com/" target="_blank">boingo</a></li>
     <li>2013 brand marketing manager @ <a href="https://2u.com/" target="_blank">2u</a></li>
     <li>2010 marketing coordinator @ <a href="https://intexcorp.com/" target="_blank">intex</a></li>
